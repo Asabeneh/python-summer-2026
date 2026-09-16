@@ -1,0 +1,8 @@
+I am about to start writing notes about file handling.
+This is gonna be the second line and sentence.
+This is the third line.
+I love Python and of course, everybody loves Python.
+I do not know why some words did not come more than two times.
+It is really very strange. 
+Why I failed to create many duplicate words does it I have a good lexical variety.
+It is so crazy crazy crazy crazy.
