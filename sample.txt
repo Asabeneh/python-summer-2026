@@ -1,0 +1,4 @@
+I am a sample file for file reading.
+I love file reading from file.
+This is gonna be the second.
+I love this because i just love it and if i don't love it what else can I do
