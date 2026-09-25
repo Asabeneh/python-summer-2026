@@ -1,3 +1,4 @@
+import re
 
 def change_text2words(filename):
     """Reads a text file, strips basic punctuation, and extracts all words.
@@ -22,6 +23,30 @@ def change_text2words(filename):
         lst.extend(words)
     f.close()
     return lst
+
+
+def change_text2words_from_txt(txt):
+    """Takes a string.
+
+    Args:
+        any string
+
+    Returns:
+        list of str: A flat list containing all the lowercased words from 
+        the file in their original order.
+
+    Examples:
+        If a string contains: "Hello, world. Hello again."
+        >>> change_text2words('Hello, world. Hello again.')
+        ['hello', 'world', 'hello', 'again']
+    """
+   
+  
+    pattern = r'[^a-zA-Z0-9 ]'
+    words = re.sub(pattern, ' ', txt).lower().split()
+    return words
+        
+
 
 
 
