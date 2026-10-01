@@ -1,5 +1,5 @@
 import re 
-from utils import change_text2words_from_txt
+from web.utils.utils import change_text2words_from_txt
 
 '''
 match

@@ -18,7 +18,7 @@
 .xlsx => csv
 .xml
 '''
-from utils import freq_table, change_text2words
+from web.utils.utils import freq_table, change_text2words
 
 
 # words =  change_text2words('./notes.txt')

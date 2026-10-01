@@ -47,10 +47,6 @@ def change_text2words_from_txt(txt):
     return words
         
 
-
-
-
-
 def freq_table(lst, n = None):
     """Calculates the frequency of elements in a list and returns them sorted by count.
 
@@ -96,4 +92,29 @@ def format_time():
     t = now.strftime("%#d %B %Y %H:%M:%S")
     return t
 
-    
+
+def create_json_file(filename, data):
+        import json
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=4)
+
+def fetch_data(url):
+    import requests
+    response = requests.get(url)
+    data = response.json()
+    return data
+
+def minifiy_data (data):
+    counries = []
+    for country in data:
+        country = {
+            'name':country['name']['common'],
+            'capital':country.get('capital'),
+            'population':country['population'],
+            'region':country['region'],
+            'subregion':country.get('subregion'),
+            'languages': country.get('languages'),
+            'landlocked':country['landlocked']
+        }
+        counries.append(country)
+    return counries

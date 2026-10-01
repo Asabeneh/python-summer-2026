@@ -1,0 +1,3408 @@
+[
+    {
+        "name": "Kuwait",
+        "capital": [
+            "Kuwait City"
+        ],
+        "population": 4270563,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Austria",
+        "capital": [
+            "Vienna"
+        ],
+        "population": 8917205,
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "de": "German"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Mayotte",
+        "capital": [
+            "Mamoudzou"
+        ],
+        "population": 226915,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Tunisia",
+        "capital": [
+            "Tunis"
+        ],
+        "population": 11818618,
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Japan",
+        "capital": [
+            "Tokyo"
+        ],
+        "population": 125836021,
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "jpn": "Japanese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Guyana",
+        "capital": [
+            "Georgetown"
+        ],
+        "population": 786559,
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "capital": [
+            "Jamestown"
+        ],
+        "population": 53192,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Saint Martin",
+        "capital": [
+            "Marigot"
+        ],
+        "population": 38659,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Guatemala",
+        "capital": [
+            "Guatemala City"
+        ],
+        "population": 16858333,
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Venezuela",
+        "capital": [
+            "Caracas"
+        ],
+        "population": 28435943,
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "French Southern and Antarctic Lands",
+        "capital": [
+            "Port-aux-Fran\u00e7ais"
+        ],
+        "population": 400,
+        "region": "Antarctic",
+        "subregion": null,
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Cape Verde",
+        "capital": [
+            "Praia"
+        ],
+        "population": 555988,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Azerbaijan",
+        "capital": [
+            "Baku"
+        ],
+        "population": 10110116,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "aze": "Azerbaijani",
+            "rus": "Russian"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Guernsey",
+        "capital": [
+            "St. Peter Port"
+        ],
+        "population": 62999,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nfr": "Guern\u00e9siais"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Kenya",
+        "capital": [
+            "Nairobi"
+        ],
+        "population": 53771300,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English",
+            "swa": "Swahili"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "South Sudan",
+        "capital": [
+            "Juba"
+        ],
+        "population": 11193729,
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Myanmar",
+        "capital": [
+            "Naypyidaw"
+        ],
+        "population": 54409794,
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "mya": "Burmese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Liechtenstein",
+        "capital": [
+            "Vaduz"
+        ],
+        "population": 38137,
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "deu": "German"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Martinique",
+        "capital": [
+            "Fort-de-France"
+        ],
+        "population": 378243,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Australia",
+        "capital": [
+            "Canberra"
+        ],
+        "population": 25687041,
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Costa Rica",
+        "capital": [
+            "San Jos\u00e9"
+        ],
+        "population": 5094114,
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Palestine",
+        "capital": [
+            "Ramallah",
+            "Jerusalem"
+        ],
+        "population": 4803269,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Spain",
+        "capital": [
+            "Madrid"
+        ],
+        "population": 47351567,
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Guinea-Bissau",
+        "capital": [
+            "Bissau"
+        ],
+        "population": 1967998,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "por": "Portuguese",
+            "pov": "Upper Guinea Creole"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "\u00c5land Islands",
+        "capital": [
+            "Mariehamn"
+        ],
+        "population": 29458,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "swe": "Swedish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Sierra Leone",
+        "capital": [
+            "Freetown"
+        ],
+        "population": 7976985,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Philippines",
+        "capital": [
+            "Manila"
+        ],
+        "population": 109581085,
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "eng": "English",
+            "fil": "Filipino"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Togo",
+        "capital": [
+            "Lom\u00e9"
+        ],
+        "population": 8278737,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Russia",
+        "capital": [
+            "Moscow"
+        ],
+        "population": 144104080,
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "rus": "Russian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Haiti",
+        "capital": [
+            "Port-au-Prince"
+        ],
+        "population": 11402533,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "fra": "French",
+            "hat": "Haitian Creole"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "South Korea",
+        "capital": [
+            "Seoul"
+        ],
+        "population": 51780579,
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "kor": "Korean"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Samoa",
+        "capital": [
+            "Apia"
+        ],
+        "population": 198410,
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Aruba",
+        "capital": [
+            "Oranjestad"
+        ],
+        "population": 106766,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Afghanistan",
+        "capital": [
+            "Kabul"
+        ],
+        "population": 40218234,
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "prs": "Dari",
+            "pus": "Pashto",
+            "tuk": "Turkmen"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Bouvet Island",
+        "capital": null,
+        "population": 0,
+        "region": "Antarctic",
+        "subregion": null,
+        "languages": {
+            "nor": "Norwegian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Bahamas",
+        "capital": [
+            "Nassau"
+        ],
+        "population": 393248,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Georgia",
+        "capital": [
+            "Tbilisi"
+        ],
+        "population": 3714000,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "kat": "Georgian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Cayman Islands",
+        "capital": [
+            "George Town"
+        ],
+        "population": 65720,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "North Macedonia",
+        "capital": [
+            "Skopje"
+        ],
+        "population": 2077132,
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "mkd": "Macedonian"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Syria",
+        "capital": [
+            "Damascus"
+        ],
+        "population": 17500657,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Hong Kong",
+        "capital": [
+            "City of Victoria"
+        ],
+        "population": 7500700,
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "eng": "English",
+            "zho": "Chinese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Chile",
+        "capital": [
+            "Santiago"
+        ],
+        "population": 19116209,
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Zimbabwe",
+        "capital": [
+            "Harare"
+        ],
+        "population": 14862927,
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "languages": {
+            "bwg": "Chibarwe",
+            "eng": "English",
+            "kck": "Kalanga",
+            "khi": "Khoisan",
+            "ndc": "Ndau",
+            "nde": "Northern Ndebele",
+            "nya": "Chewa",
+            "sna": "Shona",
+            "sot": "Sotho",
+            "toi": "Tonga",
+            "tsn": "Tswana",
+            "tso": "Tsonga",
+            "ven": "Venda",
+            "xho": "Xhosa",
+            "zib": "Zimbabwean Sign Language"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Caribbean Netherlands",
+        "capital": [
+            "Kralendijk"
+        ],
+        "population": 25987,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Netherlands",
+        "capital": [
+            "Amsterdam"
+        ],
+        "population": 16655799,
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "nld": "Dutch"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Canada",
+        "capital": [
+            "Ottawa"
+        ],
+        "population": 38005238,
+        "region": "Americas",
+        "subregion": "North America",
+        "languages": {
+            "eng": "English",
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Equatorial Guinea",
+        "capital": [
+            "Malabo"
+        ],
+        "population": 1402985,
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "fra": "French",
+            "por": "Portuguese",
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Eswatini",
+        "capital": [
+            "Mbabane"
+        ],
+        "population": 1160164,
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "languages": {
+            "eng": "English",
+            "ssw": "Swazi"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Oman",
+        "capital": [
+            "Muscat"
+        ],
+        "population": 5106622,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "United States",
+        "capital": [
+            "Washington, D.C."
+        ],
+        "population": 329484123,
+        "region": "Americas",
+        "subregion": "North America",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "capital": null,
+        "population": 0,
+        "region": "Antarctic",
+        "subregion": null,
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Romania",
+        "capital": [
+            "Bucharest"
+        ],
+        "population": 19286123,
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "ron": "Romanian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "South Africa",
+        "capital": [
+            "Pretoria",
+            "Bloemfontein",
+            "Cape Town"
+        ],
+        "population": 59308690,
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "languages": {
+            "afr": "Afrikaans",
+            "eng": "English",
+            "nbl": "Southern Ndebele",
+            "nso": "Northern Sotho",
+            "sot": "Southern Sotho",
+            "ssw": "Swazi",
+            "tsn": "Tswana",
+            "tso": "Tsonga",
+            "ven": "Venda",
+            "xho": "Xhosa",
+            "zul": "Zulu"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Mozambique",
+        "capital": [
+            "Maputo"
+        ],
+        "population": 31255435,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "capital": [
+            "Port of Spain"
+        ],
+        "population": 1399491,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Bahrain",
+        "capital": [
+            "Manama"
+        ],
+        "population": 1701583,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Republic of the Congo",
+        "capital": [
+            "Brazzaville"
+        ],
+        "population": 5657000,
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "fra": "French",
+            "kon": "Kikongo",
+            "lin": "Lingala"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Lebanon",
+        "capital": [
+            "Beirut"
+        ],
+        "population": 6825442,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic",
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "R\u00e9union",
+        "capital": [
+            "Saint-Denis"
+        ],
+        "population": 840974,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Estonia",
+        "capital": [
+            "Tallinn"
+        ],
+        "population": 1331057,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "est": "Estonian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Bangladesh",
+        "capital": [
+            "Dhaka"
+        ],
+        "population": 164689383,
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "ben": "Bengali"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Ethiopia",
+        "capital": [
+            "Addis Ababa"
+        ],
+        "population": 114963583,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "amh": "Amharic"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Peru",
+        "capital": [
+            "Lima"
+        ],
+        "population": 32971846,
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "aym": "Aymara",
+            "que": "Quechua",
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "South Georgia",
+        "capital": [
+            "King Edward Point"
+        ],
+        "population": 30,
+        "region": "Antarctic",
+        "subregion": null,
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Ecuador",
+        "capital": [
+            "Quito"
+        ],
+        "population": 17643060,
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Vatican City",
+        "capital": [
+            "Vatican City"
+        ],
+        "population": 451,
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ita": "Italian",
+            "lat": "Latin"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Mauritius",
+        "capital": [
+            "Port Louis"
+        ],
+        "population": 1265740,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "mfe": "Mauritian Creole"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "American Samoa",
+        "capital": [
+            "Pago Pago"
+        ],
+        "population": 55197,
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "capital": [
+            "Saint-Pierre"
+        ],
+        "population": 6069,
+        "region": "Americas",
+        "subregion": "North America",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Cuba",
+        "capital": [
+            "Havana"
+        ],
+        "population": 11326616,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "capital": [
+            "Diego Garcia"
+        ],
+        "population": 3000,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Vietnam",
+        "capital": [
+            "Hanoi"
+        ],
+        "population": 97338583,
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "vie": "Vietnamese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Benin",
+        "capital": [
+            "Porto-Novo"
+        ],
+        "population": 12123198,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Greece",
+        "capital": [
+            "Athens"
+        ],
+        "population": 10715549,
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ell": "Greek"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Grenada",
+        "capital": [
+            "St. George's"
+        ],
+        "population": 112519,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Belize",
+        "capital": [
+            "Belmopan"
+        ],
+        "population": 397621,
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "bjz": "Belizean Creole",
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "China",
+        "capital": [
+            "Beijing"
+        ],
+        "population": 1402112000,
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "zho": "Chinese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Montenegro",
+        "capital": [
+            "Podgorica"
+        ],
+        "population": 621718,
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "cnr": "Montenegrin"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Thailand",
+        "capital": [
+            "Bangkok"
+        ],
+        "population": 69799978,
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "tha": "Thai"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Guam",
+        "capital": [
+            "Hag\u00e5t\u00f1a"
+        ],
+        "population": 168783,
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "cha": "Chamorro",
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Comoros",
+        "capital": [
+            "Moroni"
+        ],
+        "population": 869595,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "ara": "Arabic",
+            "fra": "French",
+            "zdj": "Comorian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Laos",
+        "capital": [
+            "Vientiane"
+        ],
+        "population": 7275556,
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "lao": "Lao"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Mali",
+        "capital": [
+            "Bamako"
+        ],
+        "population": 20250834,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Germany",
+        "capital": [
+            "Berlin"
+        ],
+        "population": 83240525,
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "deu": "German"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Suriname",
+        "capital": [
+            "Paramaribo"
+        ],
+        "population": 586634,
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "nld": "Dutch"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Gambia",
+        "capital": [
+            "Banjul"
+        ],
+        "population": 2416664,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Maldives",
+        "capital": [
+            "Mal\u00e9"
+        ],
+        "population": 540542,
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "div": "Maldivian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Tonga",
+        "capital": [
+            "Nuku'alofa"
+        ],
+        "population": 105697,
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "ton": "Tongan"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "capital": [
+            "Saint John's"
+        ],
+        "population": 97928,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Guinea",
+        "capital": [
+            "Conakry"
+        ],
+        "population": 13132792,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Cura\u00e7ao",
+        "capital": [
+            "Willemstad"
+        ],
+        "population": 155014,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Panama",
+        "capital": [
+            "Panama City"
+        ],
+        "population": 4314768,
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Papua New Guinea",
+        "capital": [
+            "Port Moresby"
+        ],
+        "population": 8947027,
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "eng": "English",
+            "hmo": "Hiri Motu",
+            "tpi": "Tok Pisin"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "New Caledonia",
+        "capital": [
+            "Noum\u00e9a"
+        ],
+        "population": 271960,
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Croatia",
+        "capital": [
+            "Zagreb"
+        ],
+        "population": 4047200,
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "hrv": "Croatian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Palau",
+        "capital": [
+            "Ngerulmud"
+        ],
+        "population": 18092,
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "eng": "English",
+            "pau": "Palauan"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "United States Virgin Islands",
+        "capital": [
+            "Charlotte Amalie"
+        ],
+        "population": 106290,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Cambodia",
+        "capital": [
+            "Phnom Penh"
+        ],
+        "population": 16718971,
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "khm": "Khmer"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Puerto Rico",
+        "capital": [
+            "San Juan"
+        ],
+        "population": 3194034,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "French Polynesia",
+        "capital": [
+            "Papeet\u0113"
+        ],
+        "population": 280904,
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Nicaragua",
+        "capital": [
+            "Managua"
+        ],
+        "population": 6624554,
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Colombia",
+        "capital": [
+            "Bogot\u00e1"
+        ],
+        "population": 50882884,
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Mauritania",
+        "capital": [
+            "Nouakchott"
+        ],
+        "population": 4649660,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Botswana",
+        "capital": [
+            "Gaborone"
+        ],
+        "population": 2351625,
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "languages": {
+            "eng": "English",
+            "tsn": "Tswana"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Fiji",
+        "capital": [
+            "Suva"
+        ],
+        "population": 896444,
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "eng": "English",
+            "fij": "Fijian",
+            "hif": "Fiji Hindi"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Latvia",
+        "capital": [
+            "Riga"
+        ],
+        "population": 1901548,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "lav": "Latvian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "capital": [
+            "Longyearbyen"
+        ],
+        "population": 2562,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "nor": "Norwegian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Bermuda",
+        "capital": [
+            "Hamilton"
+        ],
+        "population": 63903,
+        "region": "Americas",
+        "subregion": "North America",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Uganda",
+        "capital": [
+            "Kampala"
+        ],
+        "population": 45741000,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English",
+            "swa": "Swahili"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "capital": [
+            "Sarajevo"
+        ],
+        "population": 3280815,
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "bos": "Bosnian",
+            "hrv": "Croatian",
+            "srp": "Serbian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Gabon",
+        "capital": [
+            "Libreville"
+        ],
+        "population": 2225728,
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Chad",
+        "capital": [
+            "N'Djamena"
+        ],
+        "population": 16425859,
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "ara": "Arabic",
+            "fra": "French"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "capital": [
+            "West Island"
+        ],
+        "population": 544,
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Kazakhstan",
+        "capital": [
+            "Nur-Sultan"
+        ],
+        "population": 18754440,
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "kaz": "Kazakh",
+            "rus": "Russian"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Pitcairn Islands",
+        "capital": [
+            "Adamstown"
+        ],
+        "population": 56,
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Guadeloupe",
+        "capital": [
+            "Basse-Terre"
+        ],
+        "population": 400132,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Sudan",
+        "capital": [
+            "Khartoum"
+        ],
+        "population": 43849269,
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "languages": {
+            "ara": "Arabic",
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Dominica",
+        "capital": [
+            "Roseau"
+        ],
+        "population": 71991,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Qatar",
+        "capital": [
+            "Doha"
+        ],
+        "population": 2881060,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Barbados",
+        "capital": [
+            "Bridgetown"
+        ],
+        "population": 287371,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Turkey",
+        "capital": [
+            "Ankara"
+        ],
+        "population": 84339067,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "tur": "Turkish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Denmark",
+        "capital": [
+            "Copenhagen"
+        ],
+        "population": 5831404,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "dan": "Danish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Marshall Islands",
+        "capital": [
+            "Majuro"
+        ],
+        "population": 59194,
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "eng": "English",
+            "mah": "Marshallese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Yemen",
+        "capital": [
+            "Sana'a"
+        ],
+        "population": 29825968,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Antarctica",
+        "capital": null,
+        "population": 1000,
+        "region": "Antarctic",
+        "subregion": null,
+        "languages": null,
+        "landlocked": false
+    },
+    {
+        "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "capital": [
+            "S\u00e3o Tom\u00e9"
+        ],
+        "population": 219161,
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Turkmenistan",
+        "capital": [
+            "Ashgabat"
+        ],
+        "population": 6031187,
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "rus": "Russian",
+            "tuk": "Turkmen"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "North Korea",
+        "capital": [
+            "Pyongyang"
+        ],
+        "population": 25778815,
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "kor": "Korean"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Portugal",
+        "capital": [
+            "Lisbon"
+        ],
+        "population": 10305564,
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Eritrea",
+        "capital": [
+            "Asmara"
+        ],
+        "population": 5352000,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "ara": "Arabic",
+            "eng": "English",
+            "tir": "Tigrinya"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Gibraltar",
+        "capital": [
+            "Gibraltar"
+        ],
+        "population": 33691,
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Mongolia",
+        "capital": [
+            "Ulan Bator"
+        ],
+        "population": 3278292,
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "mon": "Mongolian"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Kosovo",
+        "capital": [
+            "Pristina"
+        ],
+        "population": 1775378,
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "sqi": "Albanian",
+            "srp": "Serbian"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Anguilla",
+        "capital": [
+            "The Valley"
+        ],
+        "population": 13452,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Malawi",
+        "capital": [
+            "Lilongwe"
+        ],
+        "population": 19129955,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English",
+            "nya": "Chewa"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Tuvalu",
+        "capital": [
+            "Funafuti"
+        ],
+        "population": 11792,
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "tvl": "Tuvaluan"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Moldova",
+        "capital": [
+            "Chi\u0219in\u0103u"
+        ],
+        "population": 2617820,
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "ron": "Romanian"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Brunei",
+        "capital": [
+            "Bandar Seri Begawan"
+        ],
+        "population": 437483,
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "msa": "Malay"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "capital": [
+            "Washington DC"
+        ],
+        "population": 300,
+        "region": "Americas",
+        "subregion": "North America",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Finland",
+        "capital": [
+            "Helsinki"
+        ],
+        "population": 5530719,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "fin": "Finnish",
+            "swe": "Swedish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Ghana",
+        "capital": [
+            "Accra"
+        ],
+        "population": 31072945,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Dominican Republic",
+        "capital": [
+            "Santo Domingo"
+        ],
+        "population": 10847904,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "capital": [
+            "Saipan"
+        ],
+        "population": 57557,
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "cal": "Carolinian",
+            "cha": "Chamorro",
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Czechia",
+        "capital": [
+            "Prague"
+        ],
+        "population": 10698896,
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "ces": "Czech",
+            "slk": "Slovak"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Morocco",
+        "capital": [
+            "Rabat"
+        ],
+        "population": 36910558,
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "languages": {
+            "ara": "Arabic",
+            "ber": "Berber"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Honduras",
+        "capital": [
+            "Tegucigalpa"
+        ],
+        "population": 9904608,
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Israel",
+        "capital": [
+            "Jerusalem"
+        ],
+        "population": 9216900,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic",
+            "heb": "Hebrew"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Madagascar",
+        "capital": [
+            "Antananarivo"
+        ],
+        "population": 27691019,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "fra": "French",
+            "mlg": "Malagasy"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Luxembourg",
+        "capital": [
+            "Luxembourg"
+        ],
+        "population": 632275,
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "deu": "German",
+            "fra": "French",
+            "ltz": "Luxembourgish"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Armenia",
+        "capital": [
+            "Yerevan"
+        ],
+        "population": 2963234,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "hye": "Armenian"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "capital": [
+            "Cockburn Town"
+        ],
+        "population": 38718,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Falkland Islands",
+        "capital": [
+            "Stanley"
+        ],
+        "population": 2563,
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Angola",
+        "capital": [
+            "Luanda"
+        ],
+        "population": 32866268,
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Cyprus",
+        "capital": [
+            "Nicosia"
+        ],
+        "population": 1207361,
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ell": "Greek",
+            "tur": "Turkish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Indonesia",
+        "capital": [
+            "Jakarta"
+        ],
+        "population": 273523621,
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "ind": "Indonesian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Uzbekistan",
+        "capital": [
+            "Tashkent"
+        ],
+        "population": 34232050,
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "rus": "Russian",
+            "uzb": "Uzbek"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Burundi",
+        "capital": [
+            "Gitega"
+        ],
+        "population": 11890781,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "fra": "French",
+            "run": "Kirundi"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Albania",
+        "capital": [
+            "Tirana"
+        ],
+        "population": 2837743,
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "sqi": "Albanian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Saint Barth\u00e9lemy",
+        "capital": [
+            "Gustavia"
+        ],
+        "population": 4255,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Bolivia",
+        "capital": [
+            "Sucre"
+        ],
+        "population": 11673029,
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "aym": "Aymara",
+            "grn": "Guaran\u00ed",
+            "que": "Quechua",
+            "spa": "Spanish"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Kyrgyzstan",
+        "capital": [
+            "Bishkek"
+        ],
+        "population": 6591600,
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "kir": "Kyrgyz",
+            "rus": "Russian"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "United Arab Emirates",
+        "capital": [
+            "Abu Dhabi"
+        ],
+        "population": 9890400,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Paraguay",
+        "capital": [
+            "Asunci\u00f3n"
+        ],
+        "population": 7132530,
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "grn": "Guaran\u00ed",
+            "spa": "Spanish"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Tanzania",
+        "capital": [
+            "Dodoma"
+        ],
+        "population": 59734213,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English",
+            "swa": "Swahili"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Argentina",
+        "capital": [
+            "Buenos Aires"
+        ],
+        "population": 45376763,
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "grn": "Guaran\u00ed",
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Pakistan",
+        "capital": [
+            "Islamabad"
+        ],
+        "population": 220892331,
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "eng": "English",
+            "urd": "Urdu"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Nepal",
+        "capital": [
+            "Kathmandu"
+        ],
+        "population": 29136808,
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "nep": "Nepali"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "New Zealand",
+        "capital": [
+            "Wellington"
+        ],
+        "population": 5084300,
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English",
+            "mri": "M\u0101ori",
+            "nzs": "New Zealand Sign Language"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Switzerland",
+        "capital": [
+            "Bern"
+        ],
+        "population": 8654622,
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "fra": "French",
+            "gsw": "Swiss German",
+            "ita": "Italian",
+            "roh": "Romansh"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Norfolk Island",
+        "capital": [
+            "Kingston"
+        ],
+        "population": 2302,
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English",
+            "pih": "Norfuk"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Sweden",
+        "capital": [
+            "Stockholm"
+        ],
+        "population": 10353442,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "swe": "Swedish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Saint Lucia",
+        "capital": [
+            "Castries"
+        ],
+        "population": 183629,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Uruguay",
+        "capital": [
+            "Montevideo"
+        ],
+        "population": 3473727,
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Mexico",
+        "capital": [
+            "Mexico City"
+        ],
+        "population": 128932753,
+        "region": "Americas",
+        "subregion": "North America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Somalia",
+        "capital": [
+            "Mogadishu"
+        ],
+        "population": 15893219,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "ara": "Arabic",
+            "som": "Somali"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Montserrat",
+        "capital": [
+            "Plymouth"
+        ],
+        "population": 4922,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Norway",
+        "capital": [
+            "Oslo"
+        ],
+        "population": 5379475,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "nno": "Norwegian Nynorsk",
+            "nob": "Norwegian Bokm\u00e5l",
+            "smi": "Sami"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Seychelles",
+        "capital": [
+            "Victoria"
+        ],
+        "population": 98462,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "crs": "Seychellois Creole",
+            "eng": "English",
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Nauru",
+        "capital": [
+            "Yaren"
+        ],
+        "population": 10834,
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "eng": "English",
+            "nau": "Nauru"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Bhutan",
+        "capital": [
+            "Thimphu"
+        ],
+        "population": 771612,
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "dzo": "Dzongkha"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Rwanda",
+        "capital": [
+            "Kigali"
+        ],
+        "population": 12952209,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "kin": "Kinyarwanda"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Hungary",
+        "capital": [
+            "Budapest"
+        ],
+        "population": 9749763,
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "hun": "Hungarian"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Slovenia",
+        "capital": [
+            "Ljubljana"
+        ],
+        "population": 2100126,
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "slv": "Slovene"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Sint Maarten",
+        "capital": [
+            "Philipsburg"
+        ],
+        "population": 40812,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nld": "Dutch"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "India",
+        "capital": [
+            "New Delhi"
+        ],
+        "population": 1380004385,
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "eng": "English",
+            "hin": "Hindi",
+            "tam": "Tamil"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "French Guiana",
+        "capital": [
+            "Cayenne"
+        ],
+        "population": 254541,
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Italy",
+        "capital": [
+            "Rome"
+        ],
+        "population": 59554023,
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ita": "Italian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Singapore",
+        "capital": [
+            "Singapore"
+        ],
+        "population": 5685807,
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "zho": "Chinese",
+            "eng": "English",
+            "msa": "Malay",
+            "tam": "Tamil"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Ireland",
+        "capital": [
+            "Dublin"
+        ],
+        "population": 4994724,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "gle": "Irish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Andorra",
+        "capital": [
+            "Andorra la Vella"
+        ],
+        "population": 77265,
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "cat": "Catalan"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Iceland",
+        "capital": [
+            "Reykjavik"
+        ],
+        "population": 366425,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "isl": "Icelandic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Micronesia",
+        "capital": [
+            "Palikir"
+        ],
+        "population": 115021,
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Faroe Islands",
+        "capital": [
+            "T\u00f3rshavn"
+        ],
+        "population": 48865,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "dan": "Danish",
+            "fao": "Faroese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "capital": [
+            "Basseterre"
+        ],
+        "population": 53192,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Niger",
+        "capital": [
+            "Niamey"
+        ],
+        "population": 24206636,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "France",
+        "capital": [
+            "Paris"
+        ],
+        "population": 67391582,
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Djibouti",
+        "capital": [
+            "Djibouti"
+        ],
+        "population": 988002,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "ara": "Arabic",
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Liberia",
+        "capital": [
+            "Monrovia"
+        ],
+        "population": 5057677,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Taiwan",
+        "capital": [
+            "Taipei"
+        ],
+        "population": 23503349,
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "zho": "Chinese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Jordan",
+        "capital": [
+            "Amman"
+        ],
+        "population": 10203140,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Greenland",
+        "capital": [
+            "Nuuk"
+        ],
+        "population": 56367,
+        "region": "Americas",
+        "subregion": "North America",
+        "languages": {
+            "kal": "Greenlandic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Libya",
+        "capital": [
+            "Tripoli"
+        ],
+        "population": 6871287,
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Kiribati",
+        "capital": [
+            "South Tarawa"
+        ],
+        "population": 119446,
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "eng": "English",
+            "gil": "Gilbertese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Cook Islands",
+        "capital": [
+            "Avarua"
+        ],
+        "population": 18100,
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "rar": "Cook Islands M\u0101ori"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Lesotho",
+        "capital": [
+            "Maseru"
+        ],
+        "population": 2142252,
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "languages": {
+            "eng": "English",
+            "sot": "Sotho"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Monaco",
+        "capital": [
+            "Monaco"
+        ],
+        "population": 39244,
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Malaysia",
+        "capital": [
+            "Kuala Lumpur"
+        ],
+        "population": 32365998,
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "eng": "English",
+            "msa": "Malay"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Wallis and Futuna",
+        "capital": [
+            "Mata-Utu"
+        ],
+        "population": 11750,
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Saudi Arabia",
+        "capital": [
+            "Riyadh"
+        ],
+        "population": 34813867,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Bulgaria",
+        "capital": [
+            "Sofia"
+        ],
+        "population": 6927288,
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "bul": "Bulgarian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Burkina Faso",
+        "capital": [
+            "Ouagadougou"
+        ],
+        "population": 20903278,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Brazil",
+        "capital": [
+            "Bras\u00edlia"
+        ],
+        "population": 212559409,
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Lithuania",
+        "capital": [
+            "Vilnius"
+        ],
+        "population": 2794700,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "lit": "Lithuanian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Jersey",
+        "capital": [
+            "Saint Helier"
+        ],
+        "population": 100800,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nrf": "J\u00e8rriais"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Algeria",
+        "capital": [
+            "Algiers"
+        ],
+        "population": 44700000,
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Solomon Islands",
+        "capital": [
+            "Honiara"
+        ],
+        "population": 686878,
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Sri Lanka",
+        "capital": [
+            "Sri Jayawardenepura Kotte"
+        ],
+        "population": 21919000,
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "sin": "Sinhala",
+            "tam": "Tamil"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "San Marino",
+        "capital": [
+            "City of San Marino"
+        ],
+        "population": 33938,
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ita": "Italian"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "United Kingdom",
+        "capital": [
+            "London"
+        ],
+        "population": 67215293,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Nigeria",
+        "capital": [
+            "Abuja"
+        ],
+        "population": 206139587,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Slovakia",
+        "capital": [
+            "Bratislava"
+        ],
+        "population": 5458827,
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "slk": "Slovak"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Cameroon",
+        "capital": [
+            "Yaound\u00e9"
+        ],
+        "population": 26545864,
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "eng": "English",
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Namibia",
+        "capital": [
+            "Windhoek"
+        ],
+        "population": 2540916,
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "languages": {
+            "afr": "Afrikaans",
+            "deu": "German",
+            "eng": "English",
+            "her": "Herero",
+            "hgm": "Khoekhoe",
+            "kwn": "Kwangali",
+            "loz": "Lozi",
+            "ndo": "Ndonga",
+            "tsn": "Tswana"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Egypt",
+        "capital": [
+            "Cairo"
+        ],
+        "population": 102334403,
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "capital": [
+            "Kingstown"
+        ],
+        "population": 110947,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Belarus",
+        "capital": [
+            "Minsk"
+        ],
+        "population": 9398861,
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "bel": "Belarusian",
+            "rus": "Russian"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Ukraine",
+        "capital": [
+            "Kyiv"
+        ],
+        "population": 44134693,
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "ukr": "Ukrainian"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Christmas Island",
+        "capital": [
+            "Flying Fish Cove"
+        ],
+        "population": 2072,
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Niue",
+        "capital": [
+            "Alofi"
+        ],
+        "population": 1470,
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "niu": "Niuean"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Jamaica",
+        "capital": [
+            "Kingston"
+        ],
+        "population": 2961161,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "jam": "Jamaican Patois"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Zambia",
+        "capital": [
+            "Lusaka"
+        ],
+        "population": 18383956,
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Senegal",
+        "capital": [
+            "Dakar"
+        ],
+        "population": 16743930,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Belgium",
+        "capital": [
+            "Brussels"
+        ],
+        "population": 11555997,
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "deu": "German",
+            "fra": "French",
+            "nld": "Dutch"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Central African Republic",
+        "capital": [
+            "Bangui"
+        ],
+        "population": 4829764,
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "fra": "French",
+            "sag": "Sango"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Iran",
+        "capital": [
+            "Tehran"
+        ],
+        "population": 83992953,
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "fas": "Persian (Farsi)"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Iraq",
+        "capital": [
+            "Baghdad"
+        ],
+        "population": 40222503,
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic",
+            "arc": "Aramaic",
+            "ckb": "Sorani"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Timor-Leste",
+        "capital": [
+            "Dili"
+        ],
+        "population": 1318442,
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "por": "Portuguese",
+            "tet": "Tetum"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Isle of Man",
+        "capital": [
+            "Douglas"
+        ],
+        "population": 85032,
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "glv": "Manx"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Macau",
+        "capital": null,
+        "population": 649342,
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "por": "Portuguese",
+            "zho": "Chinese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "El Salvador",
+        "capital": [
+            "San Salvador"
+        ],
+        "population": 6486201,
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Malta",
+        "capital": [
+            "Valletta"
+        ],
+        "population": 525285,
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "eng": "English",
+            "mlt": "Maltese"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Poland",
+        "capital": [
+            "Warsaw"
+        ],
+        "population": 37950802,
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "pol": "Polish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Serbia",
+        "capital": [
+            "Belgrade"
+        ],
+        "population": 6908224,
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "srp": "Serbian"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Ivory Coast",
+        "capital": [
+            "Yamoussoukro"
+        ],
+        "population": 26378275,
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Western Sahara",
+        "capital": [
+            "El Aai\u00fan"
+        ],
+        "population": 510713,
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "languages": {
+            "ber": "Berber",
+            "mey": "Hassaniya",
+            "spa": "Spanish"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "DR Congo",
+        "capital": [
+            "Kinshasa"
+        ],
+        "population": 108407721,
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "fra": "French",
+            "kon": "Kikongo",
+            "lin": "Lingala",
+            "lua": "Tshiluba",
+            "swa": "Swahili"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Tajikistan",
+        "capital": [
+            "Dushanbe"
+        ],
+        "population": 9537642,
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "rus": "Russian",
+            "tgk": "Tajik"
+        },
+        "landlocked": true
+    },
+    {
+        "name": "Vanuatu",
+        "capital": [
+            "Port Vila"
+        ],
+        "population": 307150,
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "bis": "Bislama",
+            "eng": "English",
+            "fra": "French"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "Tokelau",
+        "capital": [
+            "Fakaofo"
+        ],
+        "population": 1411,
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan",
+            "tkl": "Tokelauan"
+        },
+        "landlocked": false
+    },
+    {
+        "name": "British Virgin Islands",
+        "capital": [
+            "Road Town"
+        ],
+        "population": 30237,
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "landlocked": false
+    }
+]
